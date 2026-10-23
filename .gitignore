@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large dataset caches and raw volumes
+data/
+rawdata/
+verse_data/
+*.nii
+*.nii.gz
+!results/*.nii.gz
+!sample_data/*.nii.gz
+
+# Checkpoints and weights
+*.pth
+*.pt
+*.onnx
+checkpoints/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Internal prep guide
+GUIDE.md
+
