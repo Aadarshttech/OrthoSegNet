@@ -1,0 +1,26 @@
+Class_ID,Vertebra,Region,Dice
+1,C1 (Atlas),Cervical,0.841
+2,C2 (Axis),Cervical,0.862
+3,C3,Cervical,0.854
+4,C4,Cervical,0.858
+5,C5,Cervical,0.863
+6,C6,Cervical,0.859
+7,C7,Cervical,0.867
+8,T1,Thoracic,0.864
+9,T2,Thoracic,0.869
+10,T3,Thoracic,0.872
+11,T4,Thoracic,0.875
+12,T5,Thoracic,0.879
+13,T6,Thoracic,0.881
+14,T7,Thoracic,0.88
+15,T8,Thoracic,0.883
+16,T9,Thoracic,0.885
+17,T10,Thoracic,0.887
+18,T11,Thoracic,0.891
+19,T12,Thoracic,0.894
+20,L1,Lumbar,0.897
+21,L2,Lumbar,0.902
+22,L3,Lumbar,0.906
+23,L4,Lumbar,0.908
+24,L5,Lumbar,0.912
+25,L6 (Transitional),Lumbar,0.874
